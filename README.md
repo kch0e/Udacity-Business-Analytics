@@ -3,12 +3,12 @@
 This is the Business Analytics Nanodegree (formerly Data Foundations) on Udacity's learning platform.
 More details on the Nanodegree program and specfic projects can be accessed [here](https://www.udacity.com/course/business-analytics-nanodegree--nd098).
 
-## Program Curriculam:
+## Program Curriculum:
 
-Project 1. Interpret a Data Visualization
-Project 2. Analyze NYSE Data
-Project 3. Query Digital Music Store Database
-Project 4. Build Data Dashboards
++ Project 1. Interpret a Data Visualization
++ Project 2. Analyze NYSE Data
++ Project 3. Query Digital Music Store Database
++ Project 4. Build Data Dashboards
 
 ## Technologies Used:
 
