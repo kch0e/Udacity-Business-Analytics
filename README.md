@@ -5,8 +5,8 @@ More details on the Nanodegree program and specfic projects can be accessed [her
 
 ## Program Curriculum:
 
-+ WELCOME TO THE PROGRAM
-**Project 1: Interpret a Data Visualization**
+WELCOME TO THE PROGRAM
++ **Project 1: Interpret a Data Visualization**
 INTRODUCTION TO DATA**
 + Project 2: Analyze NYSE Data
 SQL for DATA ANALYSIS
