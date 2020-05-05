@@ -8,11 +8,11 @@ More details on the Nanodegree program and specfic projects can be accessed [her
 WELCOME TO THE PROGRAM
 + **Project 1: Interpret a Data Visualization**
 INTRODUCTION TO DATA**
-+ Project 2: Analyze NYSE Data
++ **Project 2: Analyze NYSE Data**
 SQL for DATA ANALYSIS
-+ Project 3: Query Digital Music Store Database
++ **Project 3: Query Digital Music Store Database**
 DATA VISUALIZATION
-+ Project 4: Build Data Dashboards
++ **Project 4: Build Data Dashboards**
 
 ## Technologies Used:
 
