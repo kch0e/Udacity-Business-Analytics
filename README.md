@@ -5,10 +5,10 @@ More details on the Nanodegree program and specfic projects can be accessed [her
 
 ## Program Curriculum:
 
-+ Project 1. Interpret a Data Visualization
-+ Project 2. Analyze NYSE Data
-+ Project 3. Query Digital Music Store Database
-+ Project 4. Build Data Dashboards
++ Project 1: Interpret a Data Visualization
++ Project 2: Analyze NYSE Data
++ Project 3: Query Digital Music Store Database
++ Project 4: Build Data Dashboards
 
 ## Technologies Used:
 
