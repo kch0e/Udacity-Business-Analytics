@@ -1,7 +1,6 @@
 # Udacity Business Analytics Nanodegree 
 
-This is the Business Analytics Nanodegree (formerly Data Foundations) on Udacity's learning platform.
-More details on the Nanodegree program and specfic projects can be accessed [here](https://www.udacity.com/course/business-analytics-nanodegree--nd098).
+This is the Business Analytics Nanodegree (formerly Data Foundations) on Udacity. More details on the Nanodegree program and specfic projects can be accessed [here](https://www.udacity.com/course/business-analytics-nanodegree--nd098).
 
 ## Program Curriculum:
 + **Welcome to the Program** - Project 1: Interpret a Data Visualization
