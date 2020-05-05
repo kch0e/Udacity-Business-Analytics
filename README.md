@@ -1,5 +1,5 @@
 # Udacity Business Analytics Nanodegree 
-This is a course on - `"Business Analytics Nanodegree` at `Udacity` learning platform.
+This is a course on Business Analytics Nanodegree` at `Udacity` learning platform.
 More details on the Nanodegree and the project can be accessed using this [Link on Business Analytics](https://www.udacity.com/course/business-analytics-nanodegree--nd098).
 
 ## Program Curriculam:
