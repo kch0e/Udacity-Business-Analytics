@@ -1,10 +1,8 @@
 # Udacity Business Analytics Nanodegree 
-This is a course on Business Analytics Nanodegree` at `Udacity` learning platform.
+This is a course on Business Analytics Nanodegree (formerly Data Foundations) at Udacity's learning platform.
 More details on the Nanodegree and the project can be accessed using this [Link on Business Analytics](https://www.udacity.com/course/business-analytics-nanodegree--nd098).
 
 ## Program Curriculam:
-+ **WELCOME TO THE PROGRAM**
-Meet your instructors and learn how to optimize your classroom. Learn how people use data to answer questions, and find your own insights from a data dashboard.
 **Project 1:** [`Interpret Data Visualization`](https://github.com/vamshi-krishna-prime/Business_Analytics/tree/master/Interpret%20a%20Data%20Visualization) 
 
   > In this project, you’ll explore an interactive data dashboard to uncover insights. You’ll write a short report explaining each insight, and how you found the information to reach your conclusion from the dashboard.
@@ -25,10 +23,9 @@ Learn to apply design and visualization principles to create impactful data visu
   > In this project, you’ll build interactive dashboards with Tableau and use them to discover and communicate insights from data. You’ll use a dataset of flight delays in the US to visualize the quality of airlines and airports, find the best times to fly, and more.
 
 ## Technologies Used:
-
-+ Tableau
 + SQL
 + EXCEL
++ Tableau
 
 ## Acknowledgement:
 
