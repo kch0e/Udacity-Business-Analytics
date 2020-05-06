@@ -13,7 +13,7 @@ Projects for my [Udacity Business Analytics (Data Foundations) Nanodegree](https
 ## **Introducton to Data** - Project 2: Analyze NYSE Data
 > In this project, you'll use statistics and spreadsheet programs like Excel to analyze data from over 500 companies on the New York Stock Exchange. You'll also forecast financial metrics based on three possible scenarios for a company of your choice from the NYSE dataset.
  
- [Link to report](https://github.com/kev1nch0e/Udacity-Business-Analytics/blob/master/Project%202:%20Analyze%20NYSE%20Data/Presentation.pdff)
+ [Link to report](https://github.com/kev1nch0e/Udacity-Business-Analytics/blob/master/Project%202:%20Analyze%20NYSE%20Data/Presentation.pdf)
 
 [Data used](https://github.com/kev1nch0e/Udacity-Business-Analytics/blob/master/Project%202:%20Analyze%20NYSE%20Data/NYSE-source-dataset.csv)
 
