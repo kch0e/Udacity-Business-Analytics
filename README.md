@@ -1,6 +1,6 @@
 # Udacity Business Analytics Nanodegree 
 
-Projects for my [Udacity Business Analytics (Data Foundations) Nanodegree](https://www.udacity.com/course/business-analytics-nanodegree--nd098). Technolges used: SQL, Excel, Tableau
+Projects for my [Udacity Business Analytics (Data Foundations) Nanodegree](https://www.udacity.com/course/business-analytics-nanodegree--nd098). Technologies used: SQL, Excel, Tableau
 
 ## Program Curriculum:
 ## **Welcome to the Program** - Project 1: Interpret a Data Visualization
@@ -26,7 +26,7 @@ Projects for my [Udacity Business Analytics (Data Foundations) Nanodegree](https
 
 [Queries used](https://github.com/boa2017/Udacity-Data-Foundations-Nanodegree/blob/master/Project%203/queries.txt)
 
-**Data Visualization** - Project 4: Build Data Dashboards
+## **Data Visualization** - Project 4: Build Data Dashboards
 >In this project, you’ll build interactive dashboards with Tableau and use them to discover and communicate insights from data. You’ll use a dataset of flight delays in the US to visualize the quality of airlines and airports, find the best times to fly, and more.
  
  [Link to report](https://github.com/boa2017/Udacity-Data-Foundations-Nanodegree/blob/master/Project%204/Project%204%20Build%20Data%20Dashboards.pdf)
