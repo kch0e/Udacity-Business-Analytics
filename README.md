@@ -6,7 +6,7 @@ Projects for my [Udacity Business Analytics (Data Foundations) Nanodegree](https
 ## **Welcome to the Program** - Project 1: Interpret a Data Visualization
 > In this project, you’ll explore an interactive data dashboard to uncover insights. You’ll write a short report explaining each insight, and how you found the information to reach your conclusion from the dashboard.
  
- [Link to report](https://github.com/boa2017/Udacity-Data-Foundations-Nanodegree/blob/master/Project%201/Project%201%20Interpret%20a%20Data%20Visualization.pdf)
+ [Link to report](https://github.com/kev1nch0e/Udacity-Business-Analytics/blob/master/Project%201:%20Interpret%20a%20Data%20Visualization/Report.pdf)
 
 [Data used](https://public.tableau.com/profile/matt.chambers#!/vizhome/LinkedInTopSkills2016-MakeoverMonday/LinkedInTopSkills2016-MakeoverMonday)
 
