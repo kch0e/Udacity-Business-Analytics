@@ -8,14 +8,14 @@ Projects for my [Udacity Business Analytics (Data Foundations) Nanodegree](https
  
  [Link to report](https://github.com/kev1nch0e/Udacity-Business-Analytics/blob/master/Project%201:%20Interpret%20a%20Data%20Visualization/Report.pdf)
 
-[Data used](https://github.com/kev1nch0e/Udacity-Business-Analytics/blob/master/Project%202:%20Analyze%20NYSE%20Data/NYSE-source-dataset.csv)
+[Data used](https://public.tableau.com/profile/matt.chambers#!/vizhome/LinkedInTopSkills2016-MakeoverMonday/LinkedInTopSkills2016-MakeoverMonday)
 
 ## **Introducton to Data** - Project 2: Analyze NYSE Data
 > In this project, you'll use statistics and spreadsheet programs like Excel to analyze data from over 500 companies on the New York Stock Exchange. You'll also forecast financial metrics based on three possible scenarios for a company of your choice from the NYSE dataset.
  
  [Link to report](https://github.com/kev1nch0e/Udacity-Business-Analytics/blob/master/Project%202:%20Analyze%20NYSE%20Data/Presentation.pdff)
 
-[Data used](https://github.com/boa2017/Udacity-Data-Foundations-Nanodegree/blob/master/Project%202/Data%20Project%202.xlsx)
+[Data used](https://github.com/kev1nch0e/Udacity-Business-Analytics/blob/master/Project%202:%20Analyze%20NYSE%20Data/NYSE-source-dataset.csv)
 
 ## **SQL for Data Analysis** - Project 3: Query Digital Music Store Database
 > In this project, you will query a digital music store database which holds information regarding the store’s media, employees, and customers. You will use the database to help the store gain an understanding of the types of music that are purchased, where customers live, and how the company might optimize their business practices.
