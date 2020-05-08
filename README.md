@@ -20,11 +20,11 @@ Projects for my [Udacity Business Analytics (Data Foundations) Nanodegree](https
 ## **SQL for Data Analysis** - Project 3: Query Digital Music Store Database
 > In this project, you will query a digital music store database which holds information regarding the store’s media, employees, and customers. You will use the database to help the store gain an understanding of the types of music that are purchased, where customers live, and how the company might optimize their business practices.
 
-[Link to report](https://github.com/boa2017/Udacity-Data-Foundations-Nanodegree/blob/master/Project%203/Project%203%20Report.pdf)
+[Link to report](https://github.com/kev1nch0e/Udacity-Business-Analytics/blob/master/Project%203:%20Query%20a%20Digital%20Music%20Store%20Database/Final%20Report.pdf)
 
-[Database used](https://github.com/boa2017/Udacity-Data-Foundations-Nanodegree/blob/master/Project%203/chinook.db)
+[Database used](https://github.com/kev1nch0e/Udacity-Business-Analytics/blob/master/Project%203:%20Query%20a%20Digital%20Music%20Store%20Database/chinook.db)
 
-[Queries used](https://github.com/boa2017/Udacity-Data-Foundations-Nanodegree/blob/master/Project%203/queries.txt)
+[Queries used](https://github.com/kev1nch0e/Udacity-Business-Analytics/tree/master/Project%203:%20Query%20a%20Digital%20Music%20Store%20Database/SQL%20Queries)
 
 ## **Data Visualization** - Project 4: Build Data Dashboards
 >In this project, you’ll build interactive dashboards with Tableau and use them to discover and communicate insights from data. You’ll use a dataset of flight delays in the US to visualize the quality of airlines and airports, find the best times to fly, and more.
