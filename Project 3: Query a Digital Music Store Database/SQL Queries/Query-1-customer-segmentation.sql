@@ -212,6 +212,7 @@ SELECT
   FROM Customer c)
   AS total_customers
 FROM customer_segmentation cg;
+
   /*
 Output:
 recent_customers    potential_customers     standard_customers    losing_customers    unknown_customers     total_customers
