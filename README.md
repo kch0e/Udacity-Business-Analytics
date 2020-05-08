@@ -1,6 +1,6 @@
 # Udacity Business Analytics Nanodegree 
 
-Projects for my [Udacity Business Analytics (Data Foundations) Nanodegree](https://www.udacity.com/course/business-analytics-nanodegree--nd098). Technologies used: SQL, Excel, Tableau
+[Spring 2020] Projects for my [Udacity Business Analytics (Data Foundations) Nanodegree] - Individual Submission (https://www.udacity.com/course/business-analytics-nanodegree--nd098). Technologies used: SQL, Excel, Tableau
 
 ## Program Curriculum:
 ## **Welcome to the Program** - Project 1: Interpret a Data Visualization
