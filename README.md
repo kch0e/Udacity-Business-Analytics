@@ -29,6 +29,6 @@ Projects for my [Udacity Business Analytics (Data Foundations) Nanodegree](https
 ## **Data Visualization** - Project 4: Build Data Dashboards
 >In this project, you’ll build interactive dashboards with Tableau and use them to discover and communicate insights from data. You’ll use a dataset of flight delays in the US to visualize the quality of airlines and airports, find the best times to fly, and more.
  
- [Link to report](https://github.com/boa2017/Udacity-Data-Foundations-Nanodegree/blob/master/Project%204/Project%204%20Build%20Data%20Dashboards.pdf)
+ [Link to report](https://github.com/kev1nch0e/Udacity-Business-Analytics/blob/master/Project%204:%20Build%20Data%20Dashboards/Tableau%20Report.pdf)
 
-[Database used](https://github.com/boa2017/Udacity-Data-Foundations-Nanodegree/blob/master/Project%204/flight-delays.zip)
+[Database used](https://github.com/kev1nch0e/Udacity-Business-Analytics/blob/master/Project%204:%20Build%20Data%20Dashboards/flight-delays.zip)
