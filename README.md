@@ -31,3 +31,5 @@
  [Link to report](https://github.com/kev1nch0e/Udacity-Business-Analytics/blob/master/Project%204:%20Build%20Data%20Dashboards/Tableau%20Report.pdf)
 
 [Database used](https://github.com/kev1nch0e/Udacity-Business-Analytics/blob/master/Project%204:%20Build%20Data%20Dashboards/flight-delays.zip)
+
+![](https://graduation-api.udacity.com/api/certificate/QJRD3K3/download)
